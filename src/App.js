@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import ShopItemClass from './components/ShopItemClass.jsx';
 import item from './items/item.js';
